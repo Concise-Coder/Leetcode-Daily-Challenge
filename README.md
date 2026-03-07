@@ -17,8 +17,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | Day | Date | Problem | Difficulty | Language |
 |-----|------|--------|------------|----------|
 | 1 | 2026-03-06 | Check if Binary String Has at Most One Segment of Ones | Easy | Python |
+| 2 | 2026-03-07 | Minimum Number of Flips to Make the Binary String Alternating | Medium | Python |
 
-Total Problems Solved: **1**
+Total Problems Solved: **2**
 
 ---
 
