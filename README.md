@@ -20,8 +20,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 2 | 2026-03-07 | Minimum Number of Flips to Make the Binary String Alternating | Medium | Python |
 | 3 | 2026-03-08 | Find Unique Binary String | Medium | Python |
 | 4 | 2026-03-09 | Find All Possible Stable Binary Arrays I | Medium | Python |
+| 5 | 2026-03-10 | Find All Possible Stable Binary Arrays II | Hard | Python |
 
-Total Problems Solved: **4**
+Total Problems Solved: **5**
 
 ---
 
