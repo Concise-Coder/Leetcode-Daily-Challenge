@@ -21,8 +21,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 3 | 2026-03-08 | Find Unique Binary String | Medium | Python |
 | 4 | 2026-03-09 | Find All Possible Stable Binary Arrays I | Medium | Python |
 | 5 | 2026-03-10 | Find All Possible Stable Binary Arrays II | Hard | Python |
+| 6 | 2026-03-11 | Complement of Base 10 Integer | Easy | Python |
 
-Total Problems Solved: **5**
+Total Problems Solved: **6**
 
 ---
 
