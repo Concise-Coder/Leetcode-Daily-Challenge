@@ -22,8 +22,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 4 | 2026-03-09 | Find All Possible Stable Binary Arrays I | Medium | Python |
 | 5 | 2026-03-10 | Find All Possible Stable Binary Arrays II | Hard | Python |
 | 6 | 2026-03-11 | Complement of Base 10 Integer | Easy | Python |
+| 7 | 2026-03-12 | Maximize Spanning Tree Stability with Upgrades | Hard | Python |
 
-Total Problems Solved: **6**
+Total Problems Solved: **7**
 
 ---
 
