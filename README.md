@@ -24,8 +24,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 6 | 2026-03-11 | Complement of Base 10 Integer | Easy | Python |
 | 7 | 2026-03-12 | Maximize Spanning Tree Stability with Upgrades | Hard | Python |
 | 8 | 2026-03-13 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | Python |
+| 9 | 2026-03-14 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | Python |
 
-Total Problems Solved: **8**
+Total Problems Solved: **9**
 
 ---
 
