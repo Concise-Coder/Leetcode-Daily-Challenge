@@ -27,8 +27,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 9 | 2026-03-14 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | Python |
 | 10 | 2026-03-15 | Fancy Sequence | Hard | Python |
 | 11 | 2026-03-16 | Get Biggest Three Rhombus Sums in a Grid | Medium | Python |
+| 12 | 2026-03-17 | Largest Submatrix With Rearrangements | Medium | Python |
 
-Total Problems Solved: **11**
+Total Problems Solved: **12**
 
 ---
 
