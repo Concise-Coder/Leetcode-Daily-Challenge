@@ -30,8 +30,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 12 | 2026-03-17 | Largest Submatrix With Rearrangements | Medium | Python |
 | 13 | 2026-03-18 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | Python |
 | 14 | 2026-03-19 | Count Submatrices With Equal Frequency of X and Y (Top-Left Variant) | Medium | Python |
+| 15 | 2026-03-20 | Minimum Absolute Difference in k x k Submatrix | Medium | Python |
 
-Total Problems Solved: **14**
+Total Problems Solved: **15**
 
 ---
 
