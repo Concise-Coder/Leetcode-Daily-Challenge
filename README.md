@@ -33,8 +33,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 15 | 2026-03-20 | Minimum Absolute Difference in k x k Submatrix | Medium | Python |
 | 16 | 2026-03-21 | Flip k x k Submatrix Vertically | Easy | Python |
 | 17 | 2026-03-21 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Python |
+| 18 | 2026-03-22 | Maximum Non Negative Product in a Matrix | Medium | Python |
 
-Total Problems Solved: **17**
+Total Problems Solved: **18**
 
 ---
 
