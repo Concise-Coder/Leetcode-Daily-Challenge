@@ -34,8 +34,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 16 | 2026-03-21 | Flip k x k Submatrix Vertically | Easy | Python |
 | 17 | 2026-03-21 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Python |
 | 18 | 2026-03-22 | Maximum Non Negative Product in a Matrix | Medium | Python |
+| 19 | 2026-03-22 | Construct Product Matrix | Medium | Python |
 
-Total Problems Solved: **18**
+Total Problems Solved: **19**
 
 ---
 
