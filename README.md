@@ -35,8 +35,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 17 | 2026-03-21 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Python |
 | 18 | 2026-03-22 | Maximum Non Negative Product in a Matrix | Medium | Python |
 | 19 | 2026-03-22 | Construct Product Matrix | Medium | Python |
+| 20 | 2026-03-23 | Check if Grid Can Be Partitioned Into Two Equal Sum Parts | Easy | Python |
 
-Total Problems Solved: **19**
+Total Problems Solved: **20**
 
 ---
 
