@@ -36,8 +36,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 18 | 2026-03-22 | Maximum Non Negative Product in a Matrix | Medium | Python |
 | 19 | 2026-03-22 | Construct Product Matrix | Medium | Python |
 | 20 | 2026-03-23 | Check if Grid Can Be Partitioned Into Two Equal Sum Parts | Easy | Python |
+| 21 | 2026-03-23 | Grid Partition With One Removal | Medium | Python |
 
-Total Problems Solved: **20**
+Total Problems Solved: **21**
 
 ---
 
