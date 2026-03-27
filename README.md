@@ -37,8 +37,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 19 | 2026-03-22 | Construct Product Matrix | Medium | Python |
 | 20 | 2026-03-23 | Check if Grid Can Be Partitioned Into Two Equal Sum Parts | Easy | Python |
 | 21 | 2026-03-23 | Grid Partition With One Removal | Medium | Python |
+| 22 | 2026-03-24 | Check if Matrix Rows are Similar After k Shifts | Easy | Python |
 
-Total Problems Solved: **21**
+Total Problems Solved: **22**
 
 ---
 
