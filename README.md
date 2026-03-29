@@ -39,8 +39,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 21 | 2026-03-23 | Grid Partition With One Removal | Medium | Python |
 | 22 | 2026-03-24 | Check if Matrix Rows are Similar After k Shifts | Easy | Python |
 | 23 | 2026-03-24 | Find the String with LCP | Hard | Python |
+| 24 | 2026-03-25 | Check if Strings Can be Made Equal With Operations I | Easy | Python |
 
-Total Problems Solved: **23**
+Total Problems Solved: **24**
 
 ---
 
