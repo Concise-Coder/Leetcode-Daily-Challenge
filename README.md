@@ -40,8 +40,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 22 | 2026-03-24 | Check if Matrix Rows are Similar After k Shifts | Easy | Python |
 | 23 | 2026-03-24 | Find the String with LCP | Hard | Python |
 | 24 | 2026-03-25 | Check if Strings Can be Made Equal With Operations I | Easy | Python |
+| 25 | 2026-03-25 | Check if Strings Can be Made Equal With Operations II | Medium | Python |
 
-Total Problems Solved: **24**
+Total Problems Solved: **25**
 
 ---
 
