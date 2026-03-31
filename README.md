@@ -41,6 +41,7 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 23 | 2026-03-24 | Find the String with LCP | Hard | Python |
 | 24 | 2026-03-25 | Check if Strings Can be Made Equal With Operations I | Easy | Python |
 | 25 | 2026-03-25 | Check if Strings Can be Made Equal With Operations II | Medium | Python |
+| 26 | 2026-03-25 | Lexicographically Smallest String With Constraints | Hard | Python |
 
 Total Problems Solved: **26**
 
