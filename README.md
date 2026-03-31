@@ -42,7 +42,7 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 24 | 2026-03-25 | Check if Strings Can be Made Equal With Operations I | Easy | Python |
 | 25 | 2026-03-25 | Check if Strings Can be Made Equal With Operations II | Medium | Python |
 
-Total Problems Solved: **25**
+Total Problems Solved: **26**
 
 ---
 
