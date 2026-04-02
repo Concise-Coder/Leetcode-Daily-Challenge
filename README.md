@@ -43,8 +43,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 25 | 2026-03-25 | Check if Strings Can be Made Equal With Operations II | Medium | Python |
 | 26 | 2026-03-25 | Lexicographically Smallest String With Constraints | Hard | Python |
 | 27 | 2026-03-25 | Robot Collisions | Medium | Python |
+| 28 | 2026-03-25 | Maximum Amount with Up to 2 Skips | Hard | Python |
 
-Total Problems Solved: **27**
+Total Problems Solved: **28**
 
 ---
 
