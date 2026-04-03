@@ -44,8 +44,9 @@ Solve at least **one LeetCode problem every day** and maintain a consistent codi
 | 26 | 2026-03-25 | Lexicographically Smallest String With Constraints | Hard | Python |
 | 27 | 2026-03-25 | Robot Collisions | Medium | Python |
 | 28 | 2026-03-25 | Maximum Amount with Up to 2 Skips | Hard | Python |
+| 29 | 2026-04-03 | Maximum Walls Destroyed | Hard | Python |
 
-Total Problems Solved: **28**
+Total Problems Solved: **29**
 
 ---
 
